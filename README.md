@@ -2,7 +2,7 @@
 
 ---
 
-I am Nikolai, Python Web Developer
+I am Nikolai, Python Developer
 
 ---
 
